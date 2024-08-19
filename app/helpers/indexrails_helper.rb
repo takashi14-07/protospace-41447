@@ -1,0 +1,2 @@
+module IndexrailsHelper
+end
